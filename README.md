@@ -1,2 +1,2 @@
 # hello-world
-hello-world initial setup
+Initially i stated with this file to set up my github 
